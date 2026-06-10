@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "HunyuanVideo: A Systematic Framework For Large Video Generative Models"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/HunyuanVideo-Unofficial"
+license: MIT
+preferred-citation:
+  type: article
+  title: "HunyuanVideo: A Systematic Framework For Large Video Generative Models"
+  authors:
+    - family-names: Kong
+      given-names: Weijie
+    - family-names: Tian
+      given-names: Qi
+    - family-names: Zhang
+      given-names: Zijian
+    - family-names: Min
+      given-names: Rox
+    - family-names: Dai
+      given-names: Zuozhuo
+    - family-names: Zhou
+      given-names: Jin
+    - family-names: Xiong
+      given-names: Jiangfeng
+    - family-names: Li
+      given-names: Xin
+    - family-names: Wu
+      given-names: Bo
+    - family-names: Zhang
+      given-names: Jianwei
+    - family-names: Wu
+      given-names: Kathrina
+    - family-names: Lin
+      given-names: Qin
+    - family-names: Yuan
+      given-names: Junkun
+    - family-names: Long
+      given-names: Yanxin
+    - family-names: Wang
+      given-names: Aladdin
+    - family-names: Wang
+      given-names: Andong
+    - family-names: Li
+      given-names: Changlin
+    - family-names: Huang
+      given-names: Duojun
+    - family-names: Yang
+      given-names: Fang
+    - family-names: Tan
+      given-names: Hao
+    - name: Additional original paper authors
+  journal: "arXiv preprint arXiv:2412.03603"
+  year: 2024
+  url: "https://arxiv.org/abs/2412.03603"
