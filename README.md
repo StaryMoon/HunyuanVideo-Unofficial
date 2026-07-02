@@ -14,6 +14,26 @@
 
 > This is an **unofficial** implementation maintained by [@StaryMoon](https://github.com/StaryMoon). If this repository helps your reading, reproduction, or course project, please consider giving it a star and following my GitHub profile.
 
+## Paper / Project Preview
+
+<p align="center">
+  <img src="assets/paper-preview.png" alt="HunyuanVideo-Unofficial paper or project page preview" width="900">
+</p>
+
+<sub>Image source: public paper/project page screenshot, [Paper](https://arxiv.org/abs/2412.03603). Captured/organized on 2026-07-02. This repository is unofficial and is not affiliated with the paper authors.</sub>
+
+## At a Glance
+
+| Item | Details |
+|---|---|
+| Paper | HunyuanVideo: A Systematic Framework For Large Video Generative Models |
+| Venue / Source | Video Generation / arXiv 2024 |
+| Focus | This repository organizes a PyTorch implementation for HunyuanVideo: A Systematic Framework For Large Video Generative Models, focusing on large-scale text-to-video generation w... |
+| Repository type | Unofficial PyTorch reproduction starter |
+| Local entry point | `python scripts/smoke_test.py` |
+
+
+
 ## News
 
 - **2026-06-10**: Initial public release with official-style project structure, citation metadata, configuration, PyTorch interfaces, and smoke test.
